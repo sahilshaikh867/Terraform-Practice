@@ -27,7 +27,7 @@ This guide is written for real beginners & DevOps learners who want practical ha
 ✅ Enable Codespaces
 
 📷 **Screenshot Placeholder:**  
-`![Repo Created](images/repo-created.png)`
+`![Repo Created](Images/repo.png)`
 
 ---
 
@@ -37,7 +37,7 @@ This guide is written for real beginners & DevOps learners who want practical ha
 - Browser-based VS Code will open.
 
 📷 **Screenshot Placeholder:**  
-`![Codespace Launch](images/codespace-open.png)`
+`![Codespace Launch](Images/codespace.png)`
 
 ---
 
