@@ -1,7 +1,3 @@
-# ✅ Final Output: `README.md` (Ready for GitHub)
-
-You can copy–paste this entire file into your repo.
-
 # 🚀 Terraform AWS Setup using GitHub Codespaces + VS Code
 
 A fully working Terraform setup running inside **GitHub Codespaces**, using **secure Secrets**, a clean folder structure, and a demo **EC2 deployment**.
