@@ -54,7 +54,7 @@ This guide is written for real beginners & DevOps learners who want practical ha
 | `AWS_DEFAULT_REGION` | ap-south-1 |
 
 📷 Placeholder:  
-`![Secrets Setup](images/codespace-secrets.png)`
+[Secrets Setup](Images/codespace-secrets.png)
 
 ✅ Terraform will now read credentials securely from environment variables.
 
@@ -66,9 +66,6 @@ This guide is written for real beginners & DevOps learners who want practical ha
 ✔ AWS Toolkit  
 ✔ YAML  
 ✔ Prettier  
-
-📷 Placeholder:  
-`![Extensions](images/vscode-extensions.png)`
 
 ---
 
@@ -102,10 +99,6 @@ terraform.tfstate.backup
 crash.log
 
 ````
-
-📷 Placeholder:  
-`![Gitignore](images/gitignore.png)`
-
 ---
 
 # ✅ Step 7 — Terraform Code
