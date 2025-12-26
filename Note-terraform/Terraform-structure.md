@@ -1,5 +1,3 @@
----
-
 # 🧱 `variables.tf` — INPUTS TO TERRAFORM
 
 ## 🧠 What is `variables.tf`?
